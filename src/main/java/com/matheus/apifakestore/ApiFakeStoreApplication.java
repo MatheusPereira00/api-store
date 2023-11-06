@@ -8,6 +8,7 @@ public class ApiFakeStoreApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ApiFakeStoreApplication.class, args);
+        teste
     }
 
 }
